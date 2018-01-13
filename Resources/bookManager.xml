@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<nodes>
+<node>
+<firstName>
+Ornela
+</firstName>
+<lastName>
+Myftari
+</lastName>
+<phones>
+<node>
+<type>
+tel
+</type>
+<phoneNumber>
+06841175795
+</phoneNumber>
+</node>
+</phones>
+</node>
+</nodes>
